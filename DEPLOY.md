@@ -17,8 +17,13 @@ Register your target domain through your preferred domain registrar.
 ### Option B — Cloudflare Pages
 
 1. Create a new Pages project in the Cloudflare dashboard.
-2. Add your domain as a custom domain.
-3. Update the nameservers at your registrar to Cloudflare's nameservers, or add the DNS records Cloudflare requests.
+2. Connect your GitHub repository.
+3. Configure the build settings:
+   - **Build command:** `npm run build`
+   - **Build output directory:** `dist`
+4. Add the environment variables from step 4 below.
+5. Add your domain as a custom domain. Cloudflare will automatically create the required DNS records.
+6. Update the nameservers at your registrar to Cloudflare's nameservers if they are not already pointing to Cloudflare.
 
 ## 3. Build the site
 
