@@ -1,0 +1,158 @@
+[
+  {
+    "name": "Planet Diving Suit (7th)",
+    "unlock": "Default starting outfit.",
+    "region": "—",
+    "ngVariant": false
+  },
+  {
+    "name": "Skin Suit",
+    "unlock": "Unequip your current Nano Suit.",
+    "region": "—",
+    "ngVariant": false
+  },
+  {
+    "name": "Planet Diving Suit (7th) V2",
+    "unlock": "Found in a crate after riding the monorail in Eidos 7.",
+    "region": "Eidos 7",
+    "ngVariant": false
+  },
+  {
+    "name": "Red Passion",
+    "unlock": "Found in a crate in Eidos 7.",
+    "region": "Eidos 7",
+    "ngVariant": false
+  },
+  {
+    "name": "Wasteland Adventurer",
+    "unlock": "Complete the Oblivion side mission and open the floodgate; crate in Flooded Commercial District.",
+    "region": "Eidos 7",
+    "ngVariant": true
+  },
+  {
+    "name": "Keyhole Dress",
+    "unlock": "Purchase from Roxanne in Xion after raising her affinity to level 3.",
+    "region": "Xion",
+    "ngVariant": false
+  },
+  {
+    "name": "Cybernetic Dress",
+    "unlock": "Purchase from Roxanne in Xion.",
+    "region": "Xion",
+    "ngVariant": false
+  },
+  {
+    "name": "Moutan Peony",
+    "unlock": "Purchase from Roxanne after affinity level 3.",
+    "region": "Xion",
+    "ngVariant": false
+  },
+  {
+    "name": "Black Pearl",
+    "unlock": "Collect all 49 beverage cans and check the display case at the Xion hideout.",
+    "region": "Xion",
+    "ngVariant": false
+  },
+  {
+    "name": "Racer's High",
+    "unlock": "Found in a crate north of the Solar Tower in the Wasteland.",
+    "region": "Wasteland",
+    "ngVariant": true
+  },
+  {
+    "name": "Holiday Rabbit",
+    "unlock": "Found after defeating the Corrupter near D1G-g2r in the Wasteland.",
+    "region": "Wasteland",
+    "ngVariant": false
+  },
+  {
+    "name": "Cyber Magician",
+    "unlock": "Shoot 10 floating white targets near the crate marked '10' in the Wasteland.",
+    "region": "Wasteland",
+    "ngVariant": false
+  },
+  {
+    "name": "Sporty Yellow",
+    "unlock": "Complete Life of the Scavengers and defeat the Brute in the Forbidden Area.",
+    "region": "Wasteland",
+    "ngVariant": true
+  },
+  {
+    "name": "La Vie En Rose",
+    "unlock": "Reward for the Recruit Passcode Specialists bulletin-board task.",
+    "region": "Wasteland",
+    "ngVariant": false
+  },
+  {
+    "name": "Daily Knitted Dress",
+    "unlock": "Found in a train car in Matrix 11.",
+    "region": "Matrix 11",
+    "ngVariant": false
+  },
+  {
+    "name": "Daily Mascot",
+    "unlock": "Found in a crate in Matrix 11.",
+    "region": "Matrix 11",
+    "ngVariant": false
+  },
+  {
+    "name": "Daily Force",
+    "unlock": "Found in a crate in Matrix 11.",
+    "region": "Matrix 11",
+    "ngVariant": false
+  },
+  {
+    "name": "Fluffy Bear",
+    "unlock": "Reward for the Memories in the Doll side mission.",
+    "region": "Matrix 11",
+    "ngVariant": false
+  },
+  {
+    "name": "Daily Sailor",
+    "unlock": "Found in a ruined building near Twin Rocks in the Great Desert.",
+    "region": "Great Desert",
+    "ngVariant": false
+  },
+  {
+    "name": "Sky Ace",
+    "unlock": "Reward for completing the Encounter side mission.",
+    "region": "Great Desert",
+    "ngVariant": true
+  },
+  {
+    "name": "Black Wave",
+    "unlock": "Found in the eastern abandoned city block of the Great Desert.",
+    "region": "Great Desert",
+    "ngVariant": false
+  },
+  {
+    "name": "Cybernetic Bondage",
+    "unlock": "Found in a chest at the bottom of the Oasis; requires a passcode from a nearby tower.",
+    "region": "Great Desert",
+    "ngVariant": false
+  },
+  {
+    "name": "Photogenic",
+    "unlock": "Found after defeating Karakuri in the Prestige Lounge of Spire 4.",
+    "region": "Spire 4",
+    "ngVariant": false
+  },
+  {
+    "name": "Black Rose",
+    "unlock": "Solve the power-supply puzzle in Raphael Space Center and bypass a laser trap.",
+    "region": "Spire 4",
+    "ngVariant": false
+  },
+  {
+    "name": "Ocean Maid",
+    "unlock": "Catch all 25 fish species and speak to Clyde.",
+    "region": "Great Desert",
+    "ngVariant": false
+  },
+  {
+    "name": "Raven Suit",
+    "unlock": "Automatically unlocked in New Game Plus.",
+    "region": "New Game Plus",
+    "ngVariant": false
+  }
+]

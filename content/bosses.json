@@ -1,0 +1,90 @@
+[
+  {
+    "name": "Brute",
+    "location": "Opening tutorial / Wasteland (Life of the Scavengers)",
+    "type": "Main / Optional",
+    "difficulty": "3/10",
+    "weakness": "Fire-fueled fists have long wind-ups; perfect parry opens retribution.",
+    "keyTip": "In the tutorial, survive until Tachy intervenes. In the rematch, stay mobile and punish after double-fist slams."
+  },
+  {
+    "name": "Gigas",
+    "location": "Eidos 7 / Wasteland (Urgent Information)",
+    "type": "Main / Optional",
+    "difficulty": "5/10",
+    "weakness": "Slow melee slams and shockwaves; explosive barrels in the Wasteland arena.",
+    "keyTip": "Parry the heavy slams, use Blink for unblockable shockwaves, and shoot barrels when Gigas is nearby."
+  },
+  {
+    "name": "Abaddon",
+    "location": "Great Desert (An Eye for an Eye side quest)",
+    "type": "Main / Optional",
+    "difficulty": "6/10",
+    "weakness": "Lightning-infused sword attacks; limited arena in the rematch.",
+    "keyTip": "Dodge sideways from lightning strikes and use Triplet to break its balance quickly."
+  },
+  {
+    "name": "Corrupter",
+    "location": "Wasteland",
+    "type": "Main",
+    "difficulty": "5/10",
+    "weakness": "Ranged gun attachments work well when it creates distance.",
+    "keyTip": "Close the gap after its projectile volleys and use Slash for AoE clear of smaller Naytibas."
+  },
+  {
+    "name": "Juggernaut",
+    "location": "Matrix 11",
+    "type": "Main",
+    "difficulty": "6/10",
+    "weakness": "Slow axe swings and grapples; weak to staggering from gun attachments.",
+    "keyTip": "Keep your distance, bait the axe slam, then punish from behind."
+  },
+  {
+    "name": "Behemoth",
+    "location": "Great Desert (Encounter side quest)",
+    "type": "Optional",
+    "difficulty": "7/10",
+    "weakness": "Fast charges and heavy swipes, but predictable after repeated patterns.",
+    "keyTip": "Do not get greedy. Counter its charge with Blink and use Descending Break to down it."
+  },
+  {
+    "name": "Karakuri",
+    "location": "Space Elevator / Prestige Lounge",
+    "type": "Main",
+    "difficulty": "7/10",
+    "weakness": "Disables your drone; weak to grenade stuns and melee pressure.",
+    "keyTip": "Stock grenades, stay close, and use Beta skills during its recovery windows."
+  },
+  {
+    "name": "Tachy",
+    "location": "Matrix 11",
+    "type": "Main",
+    "difficulty": "8/10",
+    "weakness": "Multi-phase fight; black-wing and tentacle arm attacks have distinct tells.",
+    "keyTip": "Patience is key. Learn each phase's rhythm, save healing for the final room, and abuse Blink for fatal attacks."
+  },
+  {
+    "name": "Maelstrom",
+    "location": "Altess Levoire (Heart of the Infection)",
+    "type": "Main",
+    "difficulty": "7/10",
+    "weakness": "Three external weak spots; exposed mouth weak point after they are destroyed.",
+    "keyTip": "Stay mobile, focus fire on weak spots with your gun, and watch for disguised body bags."
+  },
+  {
+    "name": "Raven (Naytiba Form)",
+    "location": "Xion",
+    "type": "Main",
+    "difficulty": "9/10",
+    "weakness": "Concentration attack can be interrupted; gun attachments help when she flies.",
+    "keyTip": "Always be ready to knock her out of the instant-kill charge. Prioritize survival over aggression."
+  },
+  {
+    "name": "Providence",
+    "location": "The Nest",
+    "type": "Main",
+    "difficulty": "8/10",
+    "weakness": "Final boss; patterns escalate based on chosen ending path.",
+    "keyTip": "Save Burst skills for phase transitions and use Tachy Mode whenever it becomes available."
+  }
+]

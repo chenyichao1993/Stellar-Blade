@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Chain-Type Exospine",
+    "effect": "Boosts combo attack power, crit damage, and crit rate on high-level combos.",
+    "bestFor": "Melee combo builds and sustained DPS."
+  },
+  {
+    "name": "Grenadier-Type Exospine",
+    "effect": "Increases combat consumable damage, effect, and area of effect.",
+    "bestFor": "Grenade-focused crowd control against normal enemies."
+  },
+  {
+    "name": "Protection-Type Exospine",
+    "effect": "Reduces incoming damage, raises shield protection level, and can restore HP while guarding at low health.",
+    "bestFor": "Beginners or anyone who needs extra survivability."
+  },
+  {
+    "name": "Impact-Type Exospine",
+    "effect": "Raises crit rate and unleashes chained unstable energy on critical hits.",
+    "bestFor": "Fighting groups of enemies and crit-heavy builds."
+  },
+  {
+    "name": "Camouflage-Type Exospine",
+    "effect": "Reduces enemy detection range, boosts melee power after executions, and restores HP on successful execution.",
+    "bestFor": "Stealth ambushes and exploration."
+  },
+  {
+    "name": "Eagle Eye-Type Exospine",
+    "effect": "Boosts ranged attack power, increases ammo capacity, and can recover ammo when hitting weaknesses from a distance.",
+    "bestFor": "Ranged sections and drone-focused play."
+  },
+  {
+    "name": "Reflex-Type Exospine",
+    "effect": "Regenerates shield faster while guarding and makes Perfect Dodge and Perfect Parry easier.",
+    "bestFor": "Learning the combat timing and defensive play."
+  },
+  {
+    "name": "Burst Trance-Type Exospine",
+    "effect": "Increases max Burst Energy, Burst Skill attack power, and recharges Burst Energy during high-level combos.",
+    "bestFor": "Burst-skill focused boss builds."
+  },
+  {
+    "name": "Beta Trance-Type Exospine",
+    "effect": "Increases Beta Energy recharge, Beta Skill attack power, and can place you in a trance where Beta Skills cost no energy.",
+    "bestFor": "Beta-skill spam builds using Triplet, Slash, and Shield Breaker."
+  },
+  {
+    "name": "Recovery-Type Exospine",
+    "effect": "Increases all recovery effects, reduces damage taken after using a potion, and recovers Beta Energy when using potions.",
+    "bestFor": "Long exploration runs and sustained boss fights."
+  },
+  {
+    "name": "Suppression-Type Exospine",
+    "effect": "Increases shield penetration, extends downed duration, and boosts damage to downed enemies.",
+    "bestFor": "Shield-breaking and stagger punish builds."
+  },
+  {
+    "name": "Judgement-Type Exospine",
+    "effect": "Accelerates Tachy Energy charge, reduces Tachy Energy consumption, and damages nearby enemies when manually leaving Tachy Mode.",
+    "bestFor": "Late-game Tachy Mode builds."
+  }
+]
