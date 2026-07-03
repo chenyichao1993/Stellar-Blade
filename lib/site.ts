@@ -2,7 +2,7 @@ export const site = {
   name: 'Stellar Blade Hub',
   gameName: 'Stellar Blade',
   developerName: 'Shift Up',
-  url: process.env.NEXT_PUBLIC_SITE_URL || 'https://example.com',
+  url: process.env.NEXT_PUBLIC_SITE_URL || 'https://stellarblade.site',
   lang: 'en',
   metadata: {
     defaultTitle: 'Stellar Blade Hub | Guides, Bosses, Builds & Secrets',

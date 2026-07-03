@@ -35,9 +35,9 @@ In the hosting dashboard, add the following environment variables for the produc
 
 | Variable | Example value | Purpose |
 | --- | --- | --- |
-| `NEXT_PUBLIC_GA_ID` | `G-XXXXXXXXXX` | Google Analytics measurement ID |
-| `NEXT_PUBLIC_CLARITY_ID` | `xxxxxxxxxx` | Microsoft Clarity project ID |
-| `NEXT_PUBLIC_SITE_URL` | `https://your-domain.com` | Canonical site URL used by sitemap and metadata |
+| `NEXT_PUBLIC_GA_ID` | `G-KE3EXC9FQF` | Google Analytics measurement ID |
+| `NEXT_PUBLIC_CLARITY_ID` | `xgqnuc83ih` | Microsoft Clarity project ID |
+| `NEXT_PUBLIC_SITE_URL` | `https://stellarblade.site` | Canonical site URL used by sitemap and metadata |
 | `NEXT_PUBLIC_GAME_URL` | `https://www.playstation.com/en-us/games/stellar-blade/` | Primary CTA link |
 
 After adding the variables, trigger a rebuild.
@@ -95,7 +95,7 @@ Open your domain and confirm:
 
 1. Go to [Google Search Console](https://search.google.com/search-console).
 2. Add a domain property for your domain.
-3. Submit the sitemap: `https://your-domain.com/sitemap.xml`.
+3. Submit the sitemap: `https://stellarblade.site/sitemap.xml`.
 4. Manually request indexing for priority pages.
 
 ## Notes
