@@ -14,6 +14,7 @@ export const site = {
     name: 'Stellar Blade Hub',
     sameAs: [] as string[],
   },
+  contactEmail: 'motionjoy93@gmail.com',
   hero: {
     tagline: 'Stellar Blade Fan Guide',
     title: 'Your complete companion for Stellar Blade',
@@ -69,6 +70,7 @@ export const site = {
         title: 'Legal',
         links: [
           { label: 'About', href: '/about/' },
+          { label: 'Contact', href: '/contact/' },
           { label: 'Privacy Policy', href: '/privacy-policy/' },
           { label: 'Affiliate Disclosure', href: '/affiliate-disclosure/' },
         ],
@@ -84,6 +86,7 @@ export const site = {
   sitemapStaticRoutes: [
     '/',
     '/about/',
+    '/contact/',
     '/privacy-policy/',
     '/affiliate-disclosure/',
     '/faq/',
