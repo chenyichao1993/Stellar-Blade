@@ -6,6 +6,7 @@ const rawGaId = process.env.NEXT_PUBLIC_GA_ID
 const gaId = rawGaId && rawGaId !== 'G-XXXXXXXXXX' ? rawGaId : undefined
 const rawClarityId = process.env.NEXT_PUBLIC_CLARITY_ID
 const clarityId = rawClarityId && rawClarityId !== 'xxxxxxxxxx' ? rawClarityId : undefined
+const adsterraPopunderUrl = process.env.NEXT_PUBLIC_ADSTERRA_POPUNDER_URL
 
 export const metadata: Metadata = {
   title: {
@@ -60,6 +61,9 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
               `,
             }}
           />
+        )}
+        {adsterraPopunderUrl && (
+          <script async src={adsterraPopunderUrl} />
         )}
 
       </head>
