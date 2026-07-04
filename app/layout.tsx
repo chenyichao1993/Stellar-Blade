@@ -1,5 +1,6 @@
 import type { Metadata } from 'next'
 import { site } from '@/lib/site'
+import { AdsterraNativeBanner } from '@/components/AdsterraNativeBanner'
 import './globals.css'
 
 const rawGaId = process.env.NEXT_PUBLIC_GA_ID
@@ -69,6 +70,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
       </head>
       <body className="bg-cream text-ink antialiased">
         {children}
+        <AdsterraNativeBanner />
       </body>
     </html>
   )
